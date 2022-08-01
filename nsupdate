@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 1.0.2",
+      "Name": "Net Sul | Versão 1.0.4",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "anderson.netsul.store",
@@ -23,9 +23,9 @@
   ],
   "Networks": [
     {
-      "Name": "VIVO CLOUDFRONT",
+      "Name": "VIVO",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: SEUCLOUDFRONTAQUI[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: 9uyq9229357j416z32.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "anderson.netsul.store",
       "ProxyIP": "52.85.213.82",
