@@ -27,7 +27,7 @@
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: SEUCLOUDFRONTAQUI[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "SEUCLOUDFRONTAQUI",
+      "TlsIP": "anderson.netsul.store",
       "ProxyIP": "52.85.213.82",
       "ProxyPort": "80",
       "Info": "Proxy"
