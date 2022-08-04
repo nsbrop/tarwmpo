@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.1",
+  "Version": "2.0.2",
   "ReleaseNotes": "Atualizado Vivo opção 1",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 2.0.1",
+      "Name": "Net Sul | Versão 2.0.2",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "anderson.netsul.store",
@@ -44,7 +44,6 @@
 
      },
     {
-
       "Name": "TIM 1",
       "FLAG": "tim",
       "Payload": "GET ws://www.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
@@ -66,7 +65,6 @@
   
     },
     {
-
       "Name": "Oi",
       "FLAG": "oi",
       "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
