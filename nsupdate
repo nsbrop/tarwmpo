@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.4",
+  "Version": "2.0.5",
   "ReleaseNotes": "Atualizado Vivo opção 1",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 2.0.4",
+      "Name": "Net Sul | Versão 2.0.5",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "anderson.netsul.store",
@@ -40,7 +40,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
-      "ProxyPort": "80",
+      "ProxyPort": "443",
       "Info": "Proxy"
     },
     {
