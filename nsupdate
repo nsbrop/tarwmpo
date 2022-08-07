@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.1",
+  "Version": "3.0.2",
   "ReleaseNotes": "Atualizado Vivo opção 1",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 3.0.1",
+      "Name": "Net Sul | Versão 3.0.2",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "anderson.netsul.store",
@@ -56,7 +56,7 @@
 
 "ProxyIP": "104.18.6.80", 
 
-"ProxyPort": "443", 
+"ProxyPort": "80", 
 
 "Info": "Tlsws" 
      },
