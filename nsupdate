@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.0",
+  "Version": "3.0.1",
   "ReleaseNotes": "Atualizado Vivo opção 1",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 3.0.0",
+      "Name": "Net Sul | Versão 3.0.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "anderson.netsul.store",
@@ -44,15 +44,21 @@
       "Info": "Proxy"
     },
     {
-        "Name": "🟣VIVO EASY 🖤",
-      "FLAG": "vivo",
-      "Payload": "GET www.5g.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "www.5g.com",
-      "TlsIP": "160.19.50.6",
-      "ProxyIP": "160.19.50.6",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
+    "Name": "🟣VIVO [EASY 01]", 
 
+"FLAG": "vivo", 
+
+"Payload": "GET wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]", 
+
+"SNI": "vivo360.vivo.com.br", 
+
+"TlsIP": "104.18.6.80", 
+
+"ProxyIP": "104.18.6.80", 
+
+"ProxyPort": "443", 
+
+"Info": "Tlsws" 
      },
     {
       "Name": "TIM 1",
