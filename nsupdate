@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.4",
+  "Version": "3.0.5",
   "ReleaseNotes": "Atualizado Vivo opção 1",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 3.0.4",
+      "Name": "Net Sul | Versão 3.0.5",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "front.netsul.store",
@@ -25,7 +25,7 @@
     {
       "Name": "VIVO STORE",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1iu9cpmr2gtos.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: agi.netsul.store [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "anderson.netsul.store",
       "ProxyIP": "52.85.213.82",
@@ -36,7 +36,7 @@
 
         "Name": "🟣VIVO XYZ ",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1ty92nai6eeeh.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: agi.netsul.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "live.vivo.com.br",
