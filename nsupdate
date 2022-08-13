@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.6",
+  "Version": "3.0.7",
   "ReleaseNotes": "Atualizado Vivo opção 1",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 3.0.6",
+      "Name": "Net Sul | Versão 3.0.7",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "front.netsul.store",
@@ -38,7 +38,7 @@
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: jc95ynu43l.map.azionedge.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "",
+      "TlsIP": "jc95ynu43l.map.azionedge.net",
       "ProxyIP": "live.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
