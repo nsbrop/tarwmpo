@@ -1,5 +1,5 @@
 {
-  "Version": "3.0.9",
+  "Version": "4.0.0",
   "ReleaseNotes": "Atualizado Vivo opção 1",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 3.0.9",
+      "Name": "Net Sul | Versão 4.0.0",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "front.netsul.store",
@@ -42,9 +42,7 @@
       "ProxyIP": "jc95ynu43l.map.azionedge.net",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
-    {
-    
+   
     }
   ]
 }
