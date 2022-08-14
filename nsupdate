@@ -1,5 +1,5 @@
 {
-  "Version": "4.0.0",
+  "Version": "4.0.1",
   "ReleaseNotes": "Atualizado Vivo opção 1",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 4.0.0",
+      "Name": "Net Sul | Versão 4.0.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "front.netsul.store",
@@ -34,12 +34,12 @@
     },
     {
 
-        "Name": "🟣VIVO AZION ",
+        "Name": "VIVO AZION POA",
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: jc95ynu43l.map.azionedge.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "jc95ynu43l.map.azionedge.net",
+      "ProxyIP": "179.191.169.81",
       "ProxyPort": "80",
       "Info": "Proxy"
    
