@@ -42,9 +42,11 @@
       "ProxyIP": "179.191.169.81",
       "ProxyPort": "80",
       "Info": "Proxy"
-   
 
-{
+      },
+      {
+
+
       "Name": "❤️ CLARO [NOVA 01]",
       "FLAG": "claro",
       "Payload": "GET wss://jc95ynu43l.map.azionedge.net/ HTTP/1.1[crlf]Host: AZION_LINK[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
