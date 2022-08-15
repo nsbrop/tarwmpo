@@ -1,5 +1,5 @@
 {
-  "Version": "4.0.5",
+  "Version": "4.0.6",
   "ReleaseNotes": "CLARO 5G ADICIONADO 1",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 4.0.5",
+      "Name": "Net Sul | Versão 4.0.6",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "front.netsul.store",
