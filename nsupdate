@@ -1,6 +1,6 @@
 {
-  "Version": "4.0.4",
-  "ReleaseNotes": "Atualizado Vivo opção 1",
+  "Version": "4.0.5",
+  "ReleaseNotes": "CLARO 5G ADICIONADO 1",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
   "EmailFeedback": "andsouza1872@gmail.com",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 4.0.4",
+      "Name": "Net Sul | Versão 4.0.5",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "front.netsul.store",
@@ -56,10 +56,5 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
-    {
-
-
-    }
-  ]
-}
+    { 
 
