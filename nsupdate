@@ -1,6 +1,6 @@
 {
-  "Version": "4.0.8",
-  "ReleaseNotes": "CLARO 5G ADICIONADO 1",
+  "Version": "4.0.9",
+  "ReleaseNotes": "CORREÇÃO APP",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
   "EmailFeedback": "andsouza1872@gmail.com",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 4.0.8",
+      "Name": "Net Sul | Versão 4.0.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "front.netsul.store",
@@ -42,20 +42,6 @@
       "ProxyIP": "179.191.169.81",
       "ProxyPort": "80",
       "Info": "Proxy"
-
-      },
-      {
-
-
-      "Name": "❤️ CLARO [NOVA 01]",
-      "FLAG": "claro",
-      "Payload": "GET wss://jc95ynu43l.map.azionedge.net/ HTTP/1.1[crlf]Host: AZION_LINK[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "statics-recarga.claro.com.br",
-      "ProxyPort": "80",
-      "Info": "Tlsws"
-
       } 
     ]
   }
