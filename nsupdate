@@ -1,6 +1,6 @@
 {
-  "Version": "5.0.4",
-  "ReleaseNotes": "CORREÇÃO APP",
+  "Version": "5.0.5",
+  "ReleaseNotes": "CORREÇÃO VIVO AGILE",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
   "EmailFeedback": "andsouza1872@gmail.com",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 5.0.4",
+      "Name": "Net Sul | Versão 5.0.5",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "179.96.121.81",
@@ -27,7 +27,7 @@
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: agi.netsul.store [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "agil.netsul.store",
+      "TlsIP": "",
       "ProxyIP": "52.85.213.82",
       "ProxyPort": "80",
       "Info": "Proxy"
