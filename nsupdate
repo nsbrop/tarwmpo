@@ -1,5 +1,5 @@
 {
-  "Version": "4.0.9",
+  "Version": "5.0.1",
   "ReleaseNotes": "CORREÇÃO APP",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 4.0.9",
+      "Name": "Net Sul | Versão 5.0.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "front.netsul.store",
