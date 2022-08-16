@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.1",
+  "Version": "5.0.2",
   "ReleaseNotes": "CORREÇÃO APP",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,11 +10,11 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 5.0.1",
+      "Name": "Net Sul | Versão 5.0.2",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "front.netsul.store",
-      "CheckUser": "http://anderson.netsul.store:8989/checkUser",
+      "ServerIP": "agil.netsul.store",
+      "CheckUser": "http://agil.netsul.store:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
