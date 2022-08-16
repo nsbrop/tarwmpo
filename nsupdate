@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.3",
+  "Version": "5.0.4",
   "ReleaseNotes": "CORREÇÃO APP",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,10 +10,10 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 5.0.3",
+      "Name": "Net Sul | Versão 5.0.4",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "agil.netsul.store",
+      "ServerIP": "179.96.121.81",
       "CheckUser": "http://agil.netsul.store:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -38,7 +38,7 @@
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: jc95ynu43l.map.azionedge.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "netsul.sulbr.xyz",
+      "TlsIP": "179.96.121.81",
       "ProxyIP": "179.191.169.81",
       "ProxyPort": "80",
       "Info": "Proxy"
