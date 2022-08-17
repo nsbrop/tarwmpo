@@ -1,6 +1,6 @@
 {
-  "Version": "5.0.5",
-  "ReleaseNotes": "CORREÇÃO VIVO AGILE",
+  "Version": "5.0.6",
+  "ReleaseNotes": "STATUS EM MANUTENÇÃO VIVO AGUARDEMMMM",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
   "EmailFeedback": "andsouza1872@gmail.com",
@@ -10,10 +10,10 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 5.0.5",
+      "Name": "Net Sul | Versão 5.0.6",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "179.96.121.81",
+      "ServerIP": "agi.netsul.store",
       "CheckUser": "http://agil.netsul.store:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
