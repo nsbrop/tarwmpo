@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.8",
+  "Version": "5.0.9",
   "ReleaseNotes": "VIVO 4G ONLINE... NOVAMENTE! MAIS INFORMAÇÃO NO GRUPO WHATSAPP",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 5.0.8",
+      "Name": "Net Sul | Versão 5.0.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -38,7 +38,7 @@
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: jc95ynu43l.map.azionedge.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "179.96.121.81",
+      "TlsIP": "",
       "ProxyIP": "179.191.169.81",
       "ProxyPort": "80",
       "Info": "Proxy"
