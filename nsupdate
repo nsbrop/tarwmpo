@@ -1,6 +1,6 @@
 {
-  "Version": "5.0.6",
-  "ReleaseNotes": "STATUS EM MANUTENÇÃO VIVO AGUARDEMMMM",
+  "Version": "5.0.7",
+  "ReleaseNotes": "ATENÇÃO TODOS CLIENTES VIVO 4G.. A VIVO ESTA EM MANUTENÇÃO AGUARDEM! MAIS INFORMAÇÃO GRUPO WHATSAPP",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
   "EmailFeedback": "andsouza1872@gmail.com",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 5.0.6",
+      "Name": "Net Sul | Versão 5.0.7",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
