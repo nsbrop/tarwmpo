@@ -1,6 +1,6 @@
 {
-  "Version": "6.0.2",
-  "ReleaseNotes": "VIVO 4G ONLINE... NOVAMENTE! MAIS INFORMAÇÃO NO GRUPO WHATSAPP",
+  "Version": "6.0.3",
+  "ReleaseNotes": "VIVO OPEÇÃO 2 ADICIONADO. OBS: SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
   "EmailFeedback": "andsouza1872@gmail.com",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 6.0.2",
+      "Name": "NET SUL POA | Versão 6.0.3",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -23,7 +23,7 @@
   ],
   "Networks": [
     {
-      "Name": "VIVO AGILE",
+      "Name": "VIVO AGILE 1",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: agi.netsul.store [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -34,9 +34,9 @@
     },
     {
 
-        "Name": "VIVO AZION POA",
+        "Name": "VIVO AGILE 2",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: jc95ynu43l.map.azionedge.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: sulbr.sulbr.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "179.191.169.81",
