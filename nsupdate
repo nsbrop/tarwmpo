@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.3",
+  "Version": "6.0.4",
   "ReleaseNotes": "VIVO OPEÇÃO 2 ADICIONADO. OBS: SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 6.0.3",
+      "Name": "NET SUL POA | Versão 6.0.4",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -36,10 +36,10 @@
 
         "Name": "VIVO AGILE 2",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: sulbr.sulbr.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: sulbr.sulbr.xyz [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "179.191.169.81",
+      "ProxyIP": "52.85.213.82",
       "ProxyPort": "80",
       "Info": "Proxy"
 
