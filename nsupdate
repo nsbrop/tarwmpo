@@ -1,6 +1,6 @@
 {
-  "Version": "6.0.4",
-  "ReleaseNotes": "VIVO OPEÇÃO 2 ADICIONADO. OBS: SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
+  "Version": "6.0.5",
+  "ReleaseNotes": "VIVO AGIL TESTE 3 ADICIONADO. OBS: SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
   "EmailFeedback": "andsouza1872@gmail.com",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 6.0.4",
+      "Name": "NET SUL POA | Versão 6.0.5",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -33,10 +33,20 @@
       "Info": "Proxy"
     },
     {
-
-        "Name": "VIVO AGILE 2",
-      "FLAG": "vivo.png",
+  
+      "Name": "VIVO AGILE 2",
+      "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: sulbr.sulbr.xyz [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "52.85.213.82",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+        "Name": "VIVO AGIL TESTE 3",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: cine.cineflixpoa.com [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "52.85.213.82",
