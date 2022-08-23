@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.6",
+  "Version": "6.0.7",
   "ReleaseNotes": "VIVO AGIL TESTE 3 ADICIONADO. OBS: SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 6.0.6",
+      "Name": "NET SUL POA | Versão 6.0.7",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -42,6 +42,32 @@
       "ProxyIP": "52.85.213.82",
       "ProxyPort": "80",
       "Info": "Proxy"
+      
+       },
+      {
+      
+      
+      "Name": "VIVO CLOUDFRONT 1",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1xdjnd9pasdsk.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "52.85.213.82",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+      
+       },
+      {
+     
+     
+      "Name": "CLARO CLOUDFRONT 1",
+      "FLAG": "claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1xdjnd9pasdsk.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "d3awytnmmfk53d.cloudfront.net",
+      "TlsIP": "d3awytnmmfk53d.cloudfront.net",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
 
       } 
     ]
