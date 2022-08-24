@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.9",
+  "Version": "7.0.1",
   "ReleaseNotes": "SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 6.0.9",
+      "Name": "NET SUL POA | Versão 7.0.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -19,9 +19,11 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-     { 
       
-      "Name": "ULTRA VELOCIDADE AZURE | Versão 6.0.9",
+     },
+     {
+     
+      "Name": "ULTRA VELOCIDADE AZURE | Versão 7.0.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sul.sulbr.xyz",
