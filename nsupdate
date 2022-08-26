@@ -1,5 +1,5 @@
 {
-  "Version": "7.0.2",
+  "Version": "7.0.3",
   "ReleaseNotes": "SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 7.0.2",
+      "Name": "NET SUL POA | Versão 7.0.3",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -23,7 +23,7 @@
      },
      {
      
-      "Name": "ULTRA VELOCIDADE AZURE | Versão 7.0.2",
+      "Name": "ULTRA VELOCIDADE AZURE | Versão 7.0.3",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sul.sulbr.xyz",
@@ -85,48 +85,37 @@
 
        },
         {
-            "Name": "╰┈[☞>TIM 14 NETFLIX",
-            "FLAG": "tim",
-            "Payload": "GET wss://texugo.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "texugo.alura.com.br",
-            "TlsIP": "172.67.188.168",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "╰┈[☞>TIM 15 YOUTUBE",
-            "FLAG": "tim",
-            "Payload": "GET wss://bam.nr-data.net  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "bam.nr-data.net",
-            "TlsIP": "162.247.241.14",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "╰┈[☞>TIM 16 WHATSAPP",
-            "FLAG": "tim",
-            "Payload": "GET wss://blog.alura.com.br.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "blog.alura.com.br",
-            "TlsIP": "blog.alura.com.br",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "╰┈[☞>TIM 17 SSL_PAY",
-            "FLAG": "tim",
-            "Payload": "GET wss://api-tim.oston.io  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "api-tim.oston.io",
-            "TlsIP": "172.67.75.17",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-
-
-
-
+           Name": "🔴 CLARO [FRONT 01]",
+   "FLAG": "claro",
+      "Payload": "GET wss:/d1xdjnd9pasdsk.cloudfront.net/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "player-api.new.livestream.com",
+      "TlsIP": "player-api.new.livestream.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      
+      
+      
+      Name": "🔴 CLARO [CINEFLIX 02]",
+   "FLAG": "claro",
+      "Payload": "GET wss:/sulbr.cineflixpoa.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "player-api.new.livestream.com",
+      "TlsIP": "player-api.new.livestream.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      
+      
+      
+      Name": "🔴 CLARO [AGILE 03]",
+   "FLAG": "claro",
+      "Payload": "GET wss:/agi.netsul.store/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "player-api.new.livestream.com",
+      "TlsIP": "player-api.new.livestream.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      
       } 
     ]
   }
