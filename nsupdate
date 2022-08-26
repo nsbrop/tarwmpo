@@ -1,5 +1,5 @@
 {
-  "Version": "7.0.3",
+  "Version": "7.0.4",
   "ReleaseNotes": "SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 7.0.3",
+      "Name": "NET SUL POA | Versão 7.0.4",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -23,7 +23,7 @@
      },
      {
      
-      "Name": "ULTRA VELOCIDADE AZURE | Versão 7.0.3",
+      "Name": "ULTRA VELOCIDADE AZURE | Versão 7.0.4",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sul.sulbr.xyz",
@@ -85,9 +85,10 @@
 
        },
        {
-           Name": "🔴 CLARO [FRONT 01]",
-   "FLAG": "claro",
-      "Payload": "GET wss:/d1xdjnd9pasdsk.cloudfront.net/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+       
+      Name": "🔴 CLARO [FRONT 01]",
+      "FLAG": "claro",
+      "Payload": "GET wss:/player-api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "player-api.new.livestream.com",
       "TlsIP": "player-api.new.livestream.com",
       "ProxyIP": "",
@@ -98,8 +99,8 @@
        {
       
       Name": "🔴 CLARO [CINEFLIX 02]",
-   "FLAG": "claro",
-      "Payload": "GET wss:/sulbr.cineflixpoa.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+     "FLAG": "claro",
+      "Payload": "GET wss:/player-api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "player-api.new.livestream.com",
       "TlsIP": "player-api.new.livestream.com",
       "ProxyIP": "",
@@ -108,10 +109,9 @@
       
        },
        {
-      
       Name": "🔴 CLARO [AGILE 03]",
-   "FLAG": "claro",
-      "Payload": "GET wss:/agi.netsul.store/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+     "FLAG": "claro",
+      "Payload": "GET wss:/player-api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "player-api.new.livestream.com",
       "TlsIP": "player-api.new.livestream.com",
       "ProxyIP": "",
