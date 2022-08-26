@@ -84,7 +84,7 @@
       "Info": "Tlsws"
 
        },
-        {
+       {
            Name": "🔴 CLARO [FRONT 01]",
    "FLAG": "claro",
       "Payload": "GET wss:/d1xdjnd9pasdsk.cloudfront.net/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
@@ -94,7 +94,8 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
       
-      
+       },
+       {
       
       Name": "🔴 CLARO [CINEFLIX 02]",
    "FLAG": "claro",
@@ -105,7 +106,8 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
       
-      
+       },
+       {
       
       Name": "🔴 CLARO [AGILE 03]",
    "FLAG": "claro",
