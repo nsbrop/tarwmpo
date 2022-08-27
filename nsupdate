@@ -1,6 +1,6 @@
 {
-  "Version": "7.0.7",
-  "ReleaseNotes": "SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
+  "Version": "7.0.8",
+  "ReleaseNotes": "2 OPEÇÃO CLARO 5G ADICIONADO..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
   "EmailFeedback": "andsouza1872@gmail.com",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 7.0.7",
+      "Name": "NET SUL POA | Versão 7.0.8",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -23,7 +23,7 @@
      },
      {
      
-      "Name": "ULTRA AZURE | Versão 7.0.7",
+      "Name": "ULTRA AZURE | Versão 7.0.8",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sul.sulbr.xyz",
@@ -84,6 +84,31 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
 
+
+     },
+     {
+
+    
+      "Name": "🔴 CLARO AGILE 2 ✅",
+      "FLAG": "claro",
+      "Payload": "GET wss://player-api.new.livestream.com/ HTTP/1.1[crlf]Host: agi.netsul.store:443[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "player-api.new.livestream.com",
+      "TlsIP": "player-api.new.livestream.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"    
+      
+    },
+    {   
+      
+      "Name": "🔴 CLARO AGILE CINEFLIX 3 ✅",
+      "FLAG": "claro",
+      "Payload": "GET wss://player-api.new.livestream.com/ HTTP/1.1[crlf]Host: sulbr.cineflixpoa.com:443[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "player-api.new.livestream.com",
+      "TlsIP": "player-api.new.livestream.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws" 
       
       } 
     ]
