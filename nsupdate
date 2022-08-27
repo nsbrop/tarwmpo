@@ -1,5 +1,5 @@
 {
-  "Version": "7.0.6",
+  "Version": "7.0.7",
   "ReleaseNotes": "SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 7.0.6",
+      "Name": "NET SUL POA | Versão 7.0.7",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -23,7 +23,7 @@
      },
      {
      
-      "Name": "ULTRA VELOCIDADE AZURE | Versão 7.0.6",
+      "Name": "ULTRA AZURE | Versão 7.0.7",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sul.sulbr.xyz",
@@ -37,7 +37,7 @@
   ],
   "Networks": [
     {
-      "Name": "🔵 VIVO AGILE 🔛 1",
+      "Name": "🔵 VIVO AGILE  1 ✅",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: agi.netsul.store [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -48,7 +48,7 @@
     },
     {
   
-      "Name": "🔵 VIVO AGILE 🔛 2",
+      "Name": "🔵 VIVO AGILE 2 ✅",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: sulbr.cineflixpoa.com [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -61,20 +61,7 @@
       },
       {
        
-      
-        "Name": "🔵 VIVO CLOUDFRONT 🔛 3",
-      "FLAG": "vivo",
-      "Payload": "GET wss://gedoc.vivo.com.br [protocol][crlf]Host: d1xdjnd9pasdsk.cloudfront.net [crlf] Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
-      "SNI": "gedoc.vivo.com.br",
-      "TlsIP": "",
-      "ProxyIP": "104.18.7.80",
-      "ProxyPort": "443",
-      "Info": "Tlsws"  
-      
-     },
-     {
-       
-      
+   
       "Name": "🔵 VIVO CLOUDFLARE 1 ✅",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1xdjnd9pasdsk.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
@@ -96,19 +83,7 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-      
-    },
-    {
-        
-        
-     "Name": "🔴 CLARO CLOUDFLARE 2 ✅",
-      "FLAG": "claro",
-      "Payload": "GET wss://player-api.new.livestream.com/ HTTP/1.1[crlf]Host: d1xdjnd9pasdsk.cloudfront.net[crlf]Upgrade: LOCKEDSSH [crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "player-api.new.livestream.com",
-      "TlsIP": "player-api.new.livestream.com",
-      "ProxyIP": "player-api.new.livestream.com",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
+
       
       } 
     ]
