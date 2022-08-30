@@ -1,6 +1,6 @@
 {
-  "Version": "8.0.1",
-  "ReleaseNotes": "VIVO ONLINE SO SELECIONAR VIVO CLOUDFLARE..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
+  "Version": "8.0.2",
+  "ReleaseNotes": "CLARO ON NOVAMENTE..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
   "EmailFeedback": "andsouza1872@gmail.com",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 8.0.1",
+      "Name": "NET SUL POA | Versão 8.0.2",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -23,7 +23,7 @@
      },
      {
      
-      "Name": "ULTRA AZURE | Versão 8.0.1",
+      "Name": "ULTRA AZURE | Versão 8.0.2",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sul.sulbr.xyz",
@@ -67,9 +67,9 @@
      
       "Name": "🔴 CLARO CLOUDFLARE  ✅",
       "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1xdjnd9pasdsk.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "d3awytnmmfk53d.cloudfront.net",
-      "TlsIP": "d3awytnmmfk53d.cloudfront.net",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1xdjnd9pasdsk.cloudfront.net:443[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "dnnsjdj5swfc3.cloudfront.net",
+      "TlsIP": "dnnsjdj5swfc3.cloudfront.net",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
