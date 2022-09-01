@@ -1,5 +1,5 @@
 {
-  "Version": "8.0.4",
+  "Version": "8.0.5",
   "ReleaseNotes": "servidor ovh adicionado..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 8.0.4",
+      "Name": "NET SUL POA | Versão 8.0.5",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -23,7 +23,7 @@
      },
      {
      
-      "Name": "ULTRA AZURE | Versão 8.0.4",
+      "Name": "ULTRA AZURE | Versão 8.0.5",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sul.sulbr.xyz",
@@ -57,7 +57,7 @@
       
        "Name": "🔵 VIVO OVH ✅",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: netsul.store [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d14hvmqzsadx5a.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "52.85.213.82",
@@ -81,7 +81,7 @@
      
       "Name": "🔴 CLARO OVH  ✅",
       "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: netsul.store:443[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d14hvmqzsadx5a.cloudfront.net:443[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "dnnsjdj5swfc3.cloudfront.net",
       "TlsIP": "dnnsjdj5swfc3.cloudfront.net",
       "ProxyIP": "",
