@@ -1,5 +1,5 @@
 {
-  "Version": "8.0.6",
+  "Version": "8.0.7",
   "ReleaseNotes": "servidor ovh adicionado..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 8.0.6",
+      "Name": "NET SUL POA | Versão 8.0.7",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -23,7 +23,7 @@
      },
      {
      
-      "Name": "ULTRA AZURE | Versão 8.0.6",
+      "Name": "ULTRA AZURE | Versão 8.0.7",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sul.sulbr.xyz",
@@ -82,8 +82,8 @@
       "Name": "🔴 CLARO OVH  ✅",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: d14hvmqzsadx5a.cloudfront.net:443[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "dnnsjdj5swfc3.cloudfront.net",
-      "TlsIP": "dnnsjdj5swfc3.cloudfront.net",
+      "SNI": "d2lw319xdy6x9h.cloudfront.net",
+      "TlsIP": "d2lw319xdy6x9h.cloudfront.net",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -97,8 +97,8 @@
       "Name": "🔴 CLARO CLOUDFRONT  ✅",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1xdjnd9pasdsk.cloudfront.net:443[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "dnnsjdj5swfc3.cloudfront.net",
-      "TlsIP": "dnnsjdj5swfc3.cloudfront.net",
+      "SNI": "d2lw319xdy6x9h.cloudfront.net",
+      "TlsIP": "d2lw319xdy6x9h.cloudfront.net",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
