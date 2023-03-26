@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 8.0.8",
+      "Name": "NET SUL POA | Versão 8.0.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -23,7 +23,7 @@
      },
      {
      
-      "Name": "ULTRA AZURE | Versão 8.0.8",
+      "Name": "ULTRA AZURE | Versão 8.0.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sul.sulbr.xyz",
@@ -40,7 +40,7 @@
       
  
       
-       "Name": "🔵 VIVO OVH ✅",
+       "Name": "🔵 VIVO STORE ✅",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d14hvmqzsadx5a.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -52,27 +52,19 @@
     },
     {
      
-     "Name": "🔵 TIM OVH ✅",
-      "FLAG": "claro",
-      "Payload": "GET wss://ajuda.c6bank.com.br/ HTTP/1.1[crlf]Host: d14hvmqzsadx5a.cloudfront.net:443 [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "ajuda.c6bank.com.br",
-      "TlsIP": "ajuda.c6bank.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
+  "Name": "🔵 VIVO NSTV ✅",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3nojlslpnjlvi.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
      
      },
      {
      
-      "Name": "🔴 CLARO OVH  ✅",
-      "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d14hvmqzsadx5a.cloudfront.net:443[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "d2lw319xdy6x9h.cloudfront.net",
-      "TlsIP": "d2lw319xdy6x9h.cloudfront.net",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-     
+    
 
     
 
