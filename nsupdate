@@ -1,5 +1,5 @@
 {
-  "Version": "9.0.2",
+  "Version": "9.0.3",
   "ReleaseNotes": "..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 9.0.2",
+      "Name": "NET SUL POA | Versão 9.0.3",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -41,9 +41,9 @@
     },
     {
      
-  "Name": "🔵 VIVO NSTV 1 🇧🇷🇨🇦 ✅",
+  "Name": "🔵 VIVO NSTV 1 🇨🇦 ✅",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3nojlslpnjlvi.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2ackv4eqtvtm2.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
@@ -54,9 +54,9 @@
      {
      
     
-  "Name": "🔵 VIVO NSTV 2 🇧🇷🇨🇦 ✅ ",
+  "Name": "🔵 VIVO NSTV 2 🇨🇦 ✅ ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2ackv4eqtvtm2.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3nojlslpnjlvi.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
