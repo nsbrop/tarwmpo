@@ -1,5 +1,5 @@
 {
-  "Version": "8.0.9",
+  "Version": "9.0.0",
   "ReleaseNotes": "..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 8.0.9",
+      "Name": "NET SUL POA | Versão 9.0.0",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -19,19 +19,8 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-      
-     },
-     {
-     
-      "Name": "ULTRA AZURE | Versão 8.0.9",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "sul.sulbr.xyz",
-      "CheckUser": "http://sul.sulbr.xyz:8989/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+  
+   
        
     }
   ],
@@ -65,7 +54,15 @@
      {
      
     
-
+  "Name": "🔵 VIVO NSTV 2 ✅",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1xdjnd9pasdsk.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+     
     
 
       
