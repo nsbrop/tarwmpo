@@ -34,7 +34,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d3nojlslpnjlvi.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyIP": "108.158.161.49",
       "ProxyPort": "80",
       "Info": "Proxy"
       
