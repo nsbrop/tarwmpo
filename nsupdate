@@ -1,5 +1,5 @@
 {
-  "Version": 10.0.1",
+  "Version": 10.0.3",
   "ReleaseNotes": "..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 10.0.1",
+      "Name": "NET SUL POA | Versão 10.0.3",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -41,9 +41,10 @@
     },
     {
      
-  "Name": "🔵 VIVO ✅",
-      "FLAG": "vivo",
-      "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
+  
+      "Name": "VIVO (ACL) DDD41",
+      "FLAG": "VIVO",
+      "Payload": "ACL http://1.1.1.1rotate= buzzfeed.com;mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed.com; myspace.com;mobile.google.com ;1.0.0.5[crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "45.229.22.120",
