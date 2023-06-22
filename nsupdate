@@ -1,5 +1,5 @@
 {
-  "Version": "9.0.5",
+  "Version": "9.0.6",
   "ReleaseNotes": "..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 9.0.5",
+      "Name": "NET SUL POA | Versão 9.0.6",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -46,7 +46,7 @@
       "Payload": "LAELE /? wss://laele.lgbtqia.gay/ HTTP/1.1 [raw]Host: d3nojlslpnjlvi.cloudfront.net [crlf] websocket /n/n/n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "127.0.0.1",
+      "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
      
