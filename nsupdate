@@ -1,5 +1,5 @@
 {
-  "Version": "9.0.7",
+  "Version": "9.0.8",
   "ReleaseNotes": "..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 9.0.7",
+      "Name": "NET SUL POA | Versão 9.0.8",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -43,7 +43,7 @@
      
   "Name": "🔵 VIVO NSTV 1 🇨🇦 ✅",
       "FLAG": "vivo",
-      "Payload": "LAELE /? wss://laele.lgbtqia.gay/ HTTP/1.1 [raw]Host: d3nojlslpnjlvi.cloudfront.net [crlf] websocket /n/n/n",
+      "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.6.41",
