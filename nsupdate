@@ -43,10 +43,10 @@
      
   "Name": "🔵 VIVO NSTV 1 🇨🇦 ✅",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2ackv4eqtvtm2.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "LAELE /? wss://laele.lgbtqia.gay/ HTTP/1.1 [raw]Host: d3nojlslpnjlvi.cloudfront.net [crlf] websocket /n/n/n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyIP": "127.0.0.1",
       "ProxyPort": "80",
       "Info": "Proxy"
      
