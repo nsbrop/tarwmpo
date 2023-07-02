@@ -1,5 +1,5 @@
 {
-  "Version": 10.0.5",
+  "Version": 10.0.6",
   "ReleaseNotes": "..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 10.0.5",
+      "Name": "NET SUL POA | Versão 10.0.6",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -34,7 +34,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d3nojlslpnjlvi.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.158.147.28",
+      "ProxyIP": "104.16.53.111",
       "ProxyPort": "80",
       "Info": "Proxy"
       
