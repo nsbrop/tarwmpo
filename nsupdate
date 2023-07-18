@@ -47,7 +47,7 @@
       "Payload": "ACL http://1.1.1.1rotate= buzzfeed.com;mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed.com; myspace.com;mobile.google.com ;1.0.0.5[crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "45.229.22.120",
+      "ProxyIP": "131.196.197.190",
       "ProxyPort": "80",
       "Info": "Proxy"
      
