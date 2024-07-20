@@ -1,5 +1,5 @@
 {
-  "Version": 15.6.7",
+  "Version": 16.7.8",
   "ReleaseNotes": "..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 15.6.7",
+      "Name": "NET SUL POA | Versão 16.7.8",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vivo4g.shop",
@@ -34,23 +34,51 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d3nojlslpnjlvi.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.139.182.100",
+      "ProxyIP": "104.17.70.206",
       "ProxyPort": "80",
       "Info": "Proxy"
+
+        },
+        {
       
-    },
-    {
-     
-  
-      "Name": "VIVO (ACL) DDD41",
-      "FLAG": "VIVO",
-      "Payload": "ACL http://1.1.1.1rotate= buzzfeed.com;mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed.com; myspace.com;mobile.google.com ;1.0.0.5[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "131.196.197.190",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-     
+            "Name": "🟣VIVO ATUALIZADA 1🟣",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL /Set-Cookie: sessionID=fbafa6258966f49f252b404ab9e5c219; path=/admin; domain=revive.vivointernetgratis.com.br; secure; HttpOnly; SameSite=strict HTTP/1.1][lf]",
+            "SNI": "",
+            "TlsIP": "134.65.244.149",
+            "ProxyIP": "134.65.244.149",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣VIVO ATUALIZADA 2🟣",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL /revive.vivointernetgratis.com.br HTTP/1.1][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "134.65.244.149",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣VIVO ATUALIZADA 3🟣",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]CONNECT navegue.vivo.ddivulga.com/pacote HTTP/1.1[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "134.65.244.149",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣VIVO ATUALIZADA 4🟣",
+            "FLAG": "vivo",
+            "Payload": "[split] [method] [host_port]GET sdp.vivo.com.br/ [protocol][crlf]Proxy-Authorization: [auth]Host: sdp.vivo.com.br[crlf][crlf]MOVE http://www.portalsva2.vivo.com.br/captive-static/tarif-def/pd/index.html HTTP/1.1[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "134.65.244.149",
+            "ProxyPort": "80",
+            "Info": "Proxy"
 
 
       
