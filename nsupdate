@@ -1,5 +1,5 @@
 {
-  "Version": 17.8.9",
+  "Version": 18.9.1",
   "ReleaseNotes": "..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 17.8.9",
+      "Name": "NET SUL POA | Versão 18.9.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -27,16 +27,12 @@
   "Networks": [
     {
       
- 
+  "Name": "🟣VIVO ATUALIZADA 0🟣",
+            "FLAG": "vivo",
       
-       "Name": "🔵 VIVO CloudFlont 🇧🇷 ✅",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3nojlslpnjlvi.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.17.70.206",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      [split]PATCH / [crlf][crlf]
+
+[delay_split]BCOPY / [crlf][crlf]
 
         },
         {
