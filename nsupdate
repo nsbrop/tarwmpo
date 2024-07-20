@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 13.4.7",
+      "Name": "NET SUL POA | Versão 13.4.8",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -29,7 +29,7 @@
       
  
       
-       "Name": "🔵 VIVO STORE 🇧🇷 ✅",
+       "Name": "🔵 VIVO CloudFlont 🇧🇷 ✅",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d3nojlslpnjlvi.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
