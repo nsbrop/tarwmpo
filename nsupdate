@@ -1,5 +1,5 @@
 {
-  "Version": 14.5.6",
+  "Version": 15.6.7",
   "ReleaseNotes": "..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 14.5.6",
+      "Name": "NET SUL POA | Versão 15.6.7",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vivo4g.shop",
