@@ -1,5 +1,5 @@
 {
-  "Version": 16.7.8",
+  "Version": 17.8.9",
   "ReleaseNotes": "..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,13 +10,13 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 16.7.8",
+      "Name": "NET SUL POA | Versão 17.8.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "vivo4g.shop",
-      "CheckUser": "http://agil.netsul.store:8989/checkUser",
+      "ServerIP": "191.96.225.223",
+      "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
-      "SSLPort": "443",
+      "SSLPort": "80",
       "USER": "",
       "PASS": ""
   
@@ -43,7 +43,7 @@
       
             "Name": "🟣VIVO ATUALIZADA 1🟣",
             "FLAG": "vivo",
-            "Payload": "[delay_split]ACL /Set-Cookie: sessionID=fbafa6258966f49f252b404ab9e5c219; path=/admin; domain=revive.vivointernetgratis.com.br; secure; HttpOnly; SameSite=strict HTTP/1.1][lf]",
+            "Payload": "[delay_split]ACL /Set-Cookie: sessionID=fbafa6258966f49f252b404ab9e5c219; path=/admin; domain=vivo4g.shop; secure; HttpOnly; SameSite=strict HTTP/1.1][lf]",
             "SNI": "",
             "TlsIP": "134.65.244.149",
             "ProxyIP": "134.65.244.149",
@@ -53,7 +53,7 @@
         {
             "Name": "🟣VIVO ATUALIZADA 2🟣",
             "FLAG": "vivo",
-            "Payload": "[delay_split]ACL /revive.vivointernetgratis.com.br HTTP/1.1][lf]",
+            "Payload": "[delay_split]ACL /vivo4g.shop HTTP/1.1][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "134.65.244.149",
