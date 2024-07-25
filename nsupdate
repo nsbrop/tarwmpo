@@ -1,16 +1,16 @@
 {
-  "Version": "20.9.9",
+  "Version": "21.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
-  "EmailFeedback": "maeiloveyouforever@gmail.com",
-  "UrlContato": "https://t.me/MH_IPTV22",
+  "EmailFeedback": "andsouza1872@gmail.com",
+  "UrlContato": "https://wa.me/message/LCGBTTUN7CV4G1",
   "UrlTermos": "https://nsbrop.github.io/tarwmpo/termos.html",
   "CheckUser": "true",
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 20.9.9",
+      "Name": "Net Sul | Versão 21.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
