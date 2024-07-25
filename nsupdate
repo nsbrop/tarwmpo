@@ -1,45 +1,96 @@
 {
-  "Version": 18.8.9",
-  "ReleaseNotes": "..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
+  "Version": "1.0.4",
+  "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
-  "EmailFeedback": "andsouza1872@gmail.com",
-  "UrlContato": "https://wa.me/message/LCGBTTUN7CV4G1",
+  "EmailFeedback": "maeiloveyouforever@gmail.com",
+  "UrlContato": "https://t.me/MH_IPTV22",
   "UrlTermos": "https://nsbrop.github.io/tarwmpo/termos.html",
   "CheckUser": "true",
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 18.8.9",
+      "Name": "Net Sul | Versão 1.0.4",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "191.96.225.223",
-      "CheckUser": "http://191.96.225.223:8989/checkUser",
+      "ServerIP": "anderson.netsul.store",
+      "CheckUser": "http://anderson.netsul.store:8989/checkUser",
       "ServerPort": "22",
-      "SSLPort": "80",
+      "SSLPort": "443",
       "USER": "",
       "PASS": ""
-  
-   
-       
     }
   ],
   "Networks": [
     {
-      
-  "Name": "🟣VIVO 4G🟣",
-            "FLAG": "vivo",
-[delay_split][lf]ACL / HTTP/1.1[lf]Host: vivo4g.shop\\n\\n\\n \\n
-
-        },
-        {
-      
-        
-
-
-      
-      } 
-    ]
-  }
-
-
+      "Name": "VIVO",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: 9uyq9229357j416z32.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "anderson.netsul.store",
+      "ProxyIP": "52.85.213.82",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO EASY",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM 1",
+      "FLAG": "tim",
+      "Payload": "GET ws://www.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "www.alura.com.br",
+      "TlsIP": "104.21.84.78",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM 2",
+      "FLAG": "tim",
+      "Payload": "GET wss://api-tim.oston.io HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "api-tim.oston.io",
+      "TlsIP": "104.21.58.67",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO 1",
+      "FLAG": "claro",
+      "Payload": "GET wss://ipv4.icanhazip.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ipv4.icanhazip.com",
+      "TlsIP": "ipv4.icanhazip.com",
+      "ProxyIP": "ipv4.icanhazip.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO 2",
+      "FLAG": "claro",
+      "Payload": "GET wss://connect.kaltura.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "connect.kaltura.com",
+      "TlsIP": "connect.kaltura.com",
+      "ProxyIP": "connect.kaltura.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "Oi",
+      "FLAG": "oi",
+      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "www.hbogo.com.br",
+      "TlsIP": "104.16.51.91",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    }
+  ]
+}
