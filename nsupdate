@@ -1,5 +1,5 @@
 {
-  "Version": "2.1.1",
+  "Version": "18.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 2.1.1",
+      "Name": "Net Sul | Versão 18.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -27,7 +27,7 @@
       "FLAG": "vivo",
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: seu dominio\\n\\n\\n \\n",
       "SNI": "",
-      "TlsIP": "vivo4g.shop",
+      "TlsIP": "191.96.225.223",
       "ProxyIP": "191.96.225.223",
       "ProxyPort": "80",
       "Info": "Proxy"
