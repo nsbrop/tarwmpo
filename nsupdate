@@ -1,5 +1,5 @@
 {
-  "Version": "26.9.9",
+  "Version": "27.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 26.9.9",
+      "Name": "Net Sul | Versão 27.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -31,7 +31,8 @@
       "ProxyIP": "191.96.225.223",
       "ProxyPort": "80",
       "Info": "Proxy"
-  {
+    },
+    {
       "Name": "TIM SECURY",
       "FLAG": "TIM",
       "Payload": "PATCH / HTTP/1.1[crlf]Host: seu dominio[crlf]X-Forward-Host:vivo4g.shop[crlf] wss://[crlf]Connection: upgrade[crlf]upgrade: websocket[realData][crlf][crlf]",
