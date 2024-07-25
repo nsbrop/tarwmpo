@@ -1,5 +1,5 @@
 {
-  "Version": "21.9.9",
+  "Version": "22.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 21.9.9",
+      "Name": "Net Sul | Versão 22.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -31,7 +31,16 @@
       "ProxyIP": "191.96.225.223",
       "ProxyPort": "80",
       "Info": "Proxy"
-
+ },
+    {
+   "Name": "TIM+VIVO+CLARO (TESTE)  ",
+      "FLAG": "TIM",
+      "Payload": "PATCH / HTTP/1.1[crlf]Host: [rotate=www.clarotvmais.com.br;loja.claro.com.br;beon.claro.com.br;www.claro.com.br;clarorecarga.claro.com.br;www.conselhodeusuariosamx.com.br;planos.claro.com.br;faq.claro.com.br;claro.com.br;auth.claro.com.br;planoscelular.claro.com.br;www.nowonline.com.br][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "191.96.225.223",
+      "ProxyIP": "191.96.225.223",
+      "ProxyPort": "80",
+      "Info": "Proxy"
     }
   ]
 }
