@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.4",
+  "Version": "2.1.1",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,11 +10,11 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 1.0.4",
+      "Name": "Net Sul | Versão 2.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "anderson.netsul.store",
-      "CheckUser": "http://anderson.netsul.store:8989/checkUser",
+      "ServerIP": "191.96.225.223",
+      "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -23,12 +23,12 @@
   ],
   "Networks": [
     {
-      "Name": "VIVO",
+      "Name": "VIVO SECURY",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: 9uyq9229357j416z32.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: seu dominio\\n\\n\\n \\n",
       "SNI": "",
-      "TlsIP": "anderson.netsul.store",
-      "ProxyIP": "52.85.213.82",
+      "TlsIP": "vivo4g.shop",
+      "ProxyIP": "191.96.225.223",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
