@@ -1,5 +1,5 @@
 {
-  "Version": "27.9.9",
+  "Version": "28.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 27.9.9",
+      "Name": "Net Sul | Versão 28.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -33,14 +33,25 @@
       "Info": "Proxy"
     },
     {
+      "Name": "VIVO EUA",
+      "FLAG": "VIVO",
+      "Payload": "PATCH / HTTP/1.1[crlf]Host:netsul.store[crlf]X-Forward-Host:vivo4g.shop[crlf] wss://[crlf]Connection: upgrade[crlf]upgrade: websocket[realData][crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "15.204.228.255",
+      "ProxyIP": "15.204.228.255",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
       "Name": "TIM SECURY",
       "FLAG": "TIM",
-      "Payload": "PATCH / HTTP/1.1[crlf]Host: seu dominio[crlf]X-Forward-Host:vivo4g.shop[crlf] wss://[crlf]Connection: upgrade[crlf]upgrade: websocket[realData][crlf][crlf]",
+      "Payload": "PATCH / HTTP/1.1[crlf]Host:vivo4g.shop[crlf]X-Forward-Host:vivo4g.shop[crlf] wss://[crlf]Connection: upgrade[crlf]upgrade: websocket[realData][crlf][crlf]",
       "SNI": "",
       "TlsIP": "191.96.225.223",
       "ProxyIP": "191.96.225.223",
       "ProxyPort": "80",
       "Info": "Proxy"
+   
  
     }
   ]
