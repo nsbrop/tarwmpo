@@ -1,5 +1,5 @@
 {
-  "Version": "18.9.9",
+  "Version": "19.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 18.9.9",
+      "Name": "Net Sul | Versão 19.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -91,11 +91,6 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-    }
-  ]
-}
-
-    
 
     }
   ]
