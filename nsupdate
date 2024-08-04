@@ -62,8 +62,10 @@
       "ProxyIP": "launches.appsflyer.com",
       "ProxyPort": "80",
       "Info": "Proxy"
-   
- HTTP/1.1[lf][crlf]Host:[rotate= 104.18.6.80;IP_VPS;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;IP_VPS][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]\r\n@@@[delay_split]ACL /Set-Cookie: sessionID=fbafa6258966f49f252b404ab9e5c219; path=/admin; domain=revive.vivointernetgratis.com.br; secure; HttpOnly; SameSite=strict HTTP/1.1][lf]\r\n@@@CONNECT [host_port] [protocol][crlf]Host: recarga.vivo.com.br[crlf]Upgrade: websocket[crlf][crlf]\r\n@@@[split][lf]GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]\r\n@@@[split][lf]POST / HTTP/1.1[crlf]Host: sonivps.pannel.site[host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]\r\n",
+
+       },
+        {
+            HTTP/1.1[lf][crlf]Host:[rotate= 104.18.6.80;IP_VPS;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;IP_VPS][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]\r\n@@@[delay_split]ACL /Set-Cookie: sessionID=fbafa6258966f49f252b404ab9e5c219; path=/admin; domain=revive.vivointernetgratis.com.br; secure; HttpOnly; SameSite=strict HTTP/1.1][lf]\r\n@@@CONNECT [host_port] [protocol][crlf]Host: recarga.vivo.com.br[crlf]Upgrade: websocket[crlf][crlf]\r\n@@@[split][lf]GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]\r\n@@@[split][lf]POST / HTTP/1.1[crlf]Host: sonivps.pannel.site[host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]\r\n",
             "SNI": "",
             "TlsIP": "sonivps.pannel.site",
             "ProxyIP": "134.65.244.149#149.78.186.113",
@@ -101,22 +103,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "🔵Tim🔵 SECURiTY 01",
-            "FLAG": "tim",
-            "Payload": "[rotate=PATCH;ACL;PUT;GET;-;SEARCH;UPDATE;PATCH;POST;HEAD;CONNECT] /chat HTTP/1.1\r\nHost: vivo.com.br\r\nConnection: Upgrade\r\nUpgrade: websocket\r\nUser-Agent: WhatsApp/2.16.259 Mozilla/5.0 (Linux; Unix 10.0; MHA-L29 Build/HUAWEIMHA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36\\n\\n\r\n\r\n",
-            "SNI": "",
-            "TlsIP": "sonivps.pannel.site",
-            "ProxyIP": "sonivps.pannel.site",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔵Tim🔵 SECURiTY 02",
-            "FLAG": "tim",
-            "Payload": "ACL sni://cdn.jsdelivr.net HTTP/1.1[crlf]Host: sonivps.pannel.site[crlf]X-Forward-Host: vivo.megassh.shop[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "sonivps.pannel.site",
-            "ProxyIP": "sonivps.pannel.site",
+            
     }
   ]
 }
