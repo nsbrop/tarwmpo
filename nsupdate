@@ -1,5 +1,5 @@
 {
-  "Version": "36.9.9",
+  "Version": "37.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,11 +10,11 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 36.9.9",
+      "Name": "Net Sul | Versão 37.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
-      "ServerIP": "d2ackv4eqtvtm2.cloudfront.net",              
+      "ServerIP": "15.204.228.255",              
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -34,7 +34,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO EUA",
+      "Name": "VIVO EUA"
       "FLAG": "VIVO",
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host:netsul.store\\n\\n\\n \\n",
       "SNI": "",
@@ -58,7 +58,7 @@
       "FLAG": "TIM",
       "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[crlf] [crlf]GET / HTTP/1.1[lf]Host:d2ackv4eqtvtm2.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
-      "TlsIP": "",
+      "TlsIP": "191.96.225.223",
       "ProxyIP": "launches.appsflyer.com",
       "ProxyPort": "80",
       "Info": "Proxy"
