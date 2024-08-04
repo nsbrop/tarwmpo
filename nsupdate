@@ -1,5 +1,5 @@
 {
-  "Version": "19.9.9",
+  "Version": "37.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 19.9.9",
+      "Name": "Net Sul | Versão 37.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -63,34 +63,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO 1",
-      "FLAG": "claro",
-      "Payload": "GET wss://ipv4.icanhazip.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "ipv4.icanhazip.com",
-      "TlsIP": "ipv4.icanhazip.com",
-      "ProxyIP": "ipv4.icanhazip.com",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "CLARO 2",
-      "FLAG": "claro",
-      "Payload": "GET wss://connect.kaltura.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "connect.kaltura.com",
-      "TlsIP": "connect.kaltura.com",
-      "ProxyIP": "connect.kaltura.com",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "Oi",
-      "FLAG": "oi",
-      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "www.hbogo.com.br",
-      "TlsIP": "104.16.51.91",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
+  
 
     }
   ]
