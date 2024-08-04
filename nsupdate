@@ -25,9 +25,9 @@
     {
       "Name": "VIVO LURA 🇧🇷",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: netsul.store\\n\\n\\n \\n",
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: netsul.yxz\\n\\n\\n \\n",
       "SNI": "",
-      "TlsIP": "191.96.225.223",
+      "TlsIP": "",
       "ProxyIP": "191.96.225.223",
       "ProxyPort": "80",
       "Info": "Proxy"
@@ -35,22 +35,22 @@
     {
       "Name": "VIVO 🇱🇷 ",
       "FLAG": "vivo",
-      "Payload": "GET ws://www.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
-      "SNI": "www.alura.com.br",
-      "TlsIP": "104.21.84.78",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: netsul.store\\n\\n\\n \\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "15.204.228.255",
+      "ProxyPort": "80",
+      "Info": "Proxy"
     },
     {
       "Name": "TIM 🇱🇷",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.timlive.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: d2ackv4eqtvtm2.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-      "SNI": "www.timlive.tim.com.br",
-      "TlsIP": "15.204.228.255",
+      "SNI": "",
+      "TlsIP": "",
       "ProxyIP": "www.timlive.tim.com.br",
       "ProxyPort": "80",
-      "Info": "Tlsws"
+      "Info": "Proxy"
  
     }
   ]
