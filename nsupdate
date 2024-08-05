@@ -1,5 +1,5 @@
 {
-  "Version": "52.9.9",
+  "Version": "53.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,10 +10,19 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 52.9.9",
+      "Name": "Net Sul | Versão 53.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
+      "CheckUser": "http://191.96.225.223:8989/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+{
+      "Name": "Net Sul | Versão 53.9.9",
+      "TYPE": "premium",
+      "FLAG": "eua.png",
       "ServerIP": "15.204.228.255",
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
