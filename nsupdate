@@ -1,19 +1,20 @@
 {
-  "Version": "51.9.9",
+  "Version": "52.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
   "EmailFeedback": "maeiloveyouforever@gmail.com",
-  "UrlContato": "https://t.me/MH_IPTV22",
+  "UrlContato": "https://t.me/22",
   "UrlTermos": "https://nsbrop.github.io/tarwmpo/termos.html",
   "CheckUser": "true",
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 51.9.9",
+      "Name": "Net Sul | Versão 52.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
+      "ServerIP": "15.204.228.255",
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
