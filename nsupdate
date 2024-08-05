@@ -1,5 +1,5 @@
 {
-  "Version": "49.9.9",
+  "Version": "50.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 49.9.9",
+      "Name": "Net Sul | Versão 50.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -23,7 +23,7 @@
   ],
   "Networks": [
     {
-      "Name": "VIVO LURA 🇧🇷",
+      "Name": "VIVO LURA 1 🇧🇷",
       "FLAG": "vivo",
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: netsul.yxz\\n\\n\\n \\n",
       "SNI": "",
@@ -31,6 +31,16 @@
       "ProxyIP": "191.96.225.223",
       "ProxyPort": "80",
       "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO LURA 2 🇧🇷",
+      "FLAG": "vivo",
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: netsul.yxz\\n\\n\\n \\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "191.96.225.223",
+      "ProxyPort": "80",
+      "Info": "Direct"
     },
     {
       "Name": "VIVO 🇱🇷 ",
