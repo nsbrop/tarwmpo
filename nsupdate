@@ -1,5 +1,5 @@
 {
-  "Version": "48.9.9",
+  "Version": "49.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 48.9.9",
+      "Name": "Net Sul | Versão 49.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -43,7 +43,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "TIM SEM CADASTRO 🇧🇷 ",
+      "Name": "TIM SEM CADASTRO1 🇧🇷 ",
       "FLAG": "tim",
       "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
       "SNI": "",
@@ -51,7 +51,17 @@
       "ProxyIP": "netsul.xyz",
       "ProxyPort": "80",
       "Info": "Direct"
-    
+
+    },
+    {
+      "Name": "TIM SEM CADASTRO2 🇧🇷 ",
+      "FLAG": "tim",
+      "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "netsul.xyz",
+      "ProxyPort": "80",
+      "Info": "Proxy"
  
     }
   ]
