@@ -1,5 +1,5 @@
 {
-  "Version": "43.9.9",
+  "Version": "44.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 43.9.9",
+      "Name": "Net Sul | Versão 44.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -44,11 +44,21 @@
       "Info": "Proxy"
     },
     {
-      "Name": "TIM 🇱🇷",
+      "Name": "TIM SEM CADASTRO 🇧🇷 ",
+      "FLAG": "tim",
+      "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "netsul.xyz",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM CADASTRADO 🇱🇷",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.timlive.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: d2ackv4eqtvtm2.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
-      "TlsIP": "15.204.228.255",
+      "TlsIP": "",
       "ProxyIP": "www.timlive.tim.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
