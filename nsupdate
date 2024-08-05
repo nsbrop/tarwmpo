@@ -1,5 +1,5 @@
 {
-  "Version": "45.9.9",
+  "Version": "46.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul | Versão 45.9.9",
+      "Name": "Net Sul | Versão 46.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -54,14 +54,14 @@
       "Info": "Direct"
     },
     {
-      "Name": "TIM CADASTRADO 🇱🇷",
+      Name": "TIM CADASTRADO 🇱🇷",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: www.timlive.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: d2ackv4eqtvtm2.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "www.timlive.tim.com.br",
       "ProxyPort": "80",
-      "Info": "Direct"
+      "Info": "Proxy"
  
     }
   ]
