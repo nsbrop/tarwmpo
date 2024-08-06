@@ -1,5 +1,5 @@
 {
-  "Version": "55.9.9",
+  "Version": "56.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul BR | Versão 55.9.9",
+      "Name": "Net Sul BR | Versão 56.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -21,7 +21,7 @@
       "PASS": ""
     },
     {
-      "Name": "Net Sul EUA | Versão 55.9.9",
+      "Name": "Net Sul EUA | Versão 56.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "15.204.228.255",
@@ -72,10 +72,19 @@
       "ProxyIP": "15.204.228.255",
       "ProxyPort": "80",
       "Info": "Direct"
-
     },
     {
-      "Name": "TIM SEM CADASTRO1 🇧🇷 ",
+      "Name": "TIM LURA CADASTRADO 🇧🇷 ",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[crlf] [crlf]GET / HTTP/1.1[lf]Host:d3nojlslpnjlvi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "launches.appsflyer.com",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "TIM LURA SEM CADASTRO1 🇧🇷 ",
       "FLAG": "tim",
       "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
       "SNI": "",
@@ -83,10 +92,9 @@
       "ProxyIP": "netsul.xyz",
       "ProxyPort": "80",
       "Info": "Direct"
-
     },
     {
-      "Name": "TIM SEM CADASTRO2 🇧🇷 ",
+      "Name": "TIM LURA SEM CADASTRO2 🇧🇷 ",
       "FLAG": "tim",
       "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
       "SNI": "",
