@@ -1,5 +1,5 @@
 {
-  "Version": "56.9.9",
+  "Version": "57.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,10 +10,10 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul BR | Versão 56.9.9",
+      "Name": "Net Sul BR | Versão 57.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "191.96.225.223",
+      "ServerIP": "netsul.xyz",
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -21,10 +21,10 @@
       "PASS": ""
     },
     {
-      "Name": "Net Sul EUA | Versão 56.9.9",
+      "Name": "Net Sul EUA | Versão 57.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "15.204.228.255",
+      "ServerIP": "netsul.store",
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -54,6 +54,18 @@
       "Info": "Direct"
     },
     {
+ "Name": "VIVO LURA Direct 3 🇧🇷",
+      "FLAG": "vivo",
+      "Payload": "delay_split]COPY / [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "netsul.xyz",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+
+
       "Name": "VIVO Proxy 🇱🇷 ",
       "FLAG": "vivo",
       "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: netsul.store\\n\\n\\n \\n",
