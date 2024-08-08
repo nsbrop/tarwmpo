@@ -1,16 +1,16 @@
 {
-  "Version": "57.9.9",
+  "Version": "58.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
   "EmailFeedback": "maeiloveyouforever@gmail.com",
   "UrlContato": "https://t.me/22",
   "UrlTermos": "https://nsbrop.github.io/tarwmpo/termos.html",
-  "CheckUser": "true",
+  "CheckUser": "http://sshmanager.uleksv.xyz:3232/checkuser/csfibra",
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul BR | Versão 57.9.9",
+      "Name": "Net Sul BR | Versão 58.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.xyz",
@@ -21,7 +21,7 @@
       "PASS": ""
     },
     {
-      "Name": "Net Sul EUA | Versão 57.9.9",
+      "Name": "Net Sul EUA | Versão 58.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.store",
