@@ -1,5 +1,5 @@
 {
-  "Version": "58.9.9",
+  "Version": "59.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul BR | Versão 58.9.9",
+      "Name": "Net Sul BR | Versão 59.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.xyz",
@@ -56,10 +56,10 @@
     {
  "Name": "VIVO LURA Direct 3 🇧🇷",
       "FLAG": "vivo",
-      "Payload": "delay_split]COPY / [crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "netsul.xyz",
+      "ProxyIP": "gedoc.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Direct"
     },
