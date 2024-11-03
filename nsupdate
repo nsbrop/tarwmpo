@@ -6,7 +6,7 @@
 
   "UdpPort": "7300",
   "Servers": [
-    {
+    
       
       "Name": "Net Sul BR | Versão 69.9.9",
       "TYPE": "premium",
@@ -16,8 +16,8 @@
       "ServerPort": "22",
       "SSLPort": "443",
 
-     },
-    {
+    
+  
       "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
