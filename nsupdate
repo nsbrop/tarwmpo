@@ -1,5 +1,5 @@
 {
-  "Version": "63.9.9",
+  "Version": "64.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul BR | Versão 63.9.9",
+      "Name": "Net Sul BR | Versão 64.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -21,7 +21,7 @@
       "PASS": ""
     },
     {
-      "Name": "Net Sul EUA | Versão 63.9.9",
+      "Name": "Net Sul EUA | Versão 64.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -50,7 +50,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.16.53.111",
+      "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
       "Info": "proxy"
     },
