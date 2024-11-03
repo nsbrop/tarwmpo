@@ -6,35 +6,43 @@
 
   "UdpPort": "7300",
   "Servers": [
-    
+    {
       
       "Name": "Net Sul BR | Versão 70.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.xyz",
+      "ServerIP": "firezfalcon.nxtgen.pp.ua",
+      "CheckUser": "http://191.96.225.223:8989/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+    
+      "Name": "Net Sul EUA | Versão 70.9.9",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "netsul.store",
+      "ServerIP": "firezfalcon.nxtgen.pp.ua",
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
 
-    
-  
       "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "recargavivo.com.br",
+      "ProxyIP": "gedoc.vivo.com.br",
+      "ProxyIP": "104.16.51.111#104.16.53.111",
       "ProxyPort": "80",
       "Info": "proxy"
-    },
-    {
 
-        "Name": "TIM CDN",
-        "FLAG": "tim",
-        "Payload": "[rotate=PROPPATCH;ACL;PATCH;BCOPY;UNLINK] / HTTP/1.1[crlf]Host: [app_host][crlf]Backend:app111222[crlf]Upgrade: Websocket[crlf][crlf]",
-        "SNI": "",
-        "TlsIP": "",
-        "ProxyIP": "104.16.51.111#104.16.53.111",
-        "ProxyPort": "80",
-        "Info": "Proxy"
+
+ "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "gedoc.vivo.com.br",
+      "ProxyIP": "vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "proxy"
+
  
     }
   ]
