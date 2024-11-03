@@ -1,5 +1,5 @@
 {
-  "Version": "62.9.9",
+  "Version": "63.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,10 +10,10 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul BR | Versão 62.9.9",
+      "Name": "Net Sul BR | Versão 63.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "firezfalcon.nxtgen.pp.ua",
+      "ServerIP": "191.96.225.223",
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -21,10 +21,10 @@
       "PASS": ""
     },
     {
-      "Name": "Net Sul EUA | Versão 62.9.9",
+      "Name": "Net Sul EUA | Versão 63.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "firezfalcon.nxtgen.pp.ua",
+      "ServerIP": "191.96.225.223",
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -50,7 +50,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.16.51.111#104.16.53.111",
+      "ProxyIP": "104.16.53.111",
       "ProxyPort": "80",
       "Info": "proxy"
     },
