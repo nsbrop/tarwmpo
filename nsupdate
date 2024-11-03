@@ -1,5 +1,5 @@
 {
-  "Version": "67.9.9",
+  "Version": "68.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -8,15 +8,15 @@
   "Servers": [
     {
       
-      "Name": "Net Sul BR | Versão 67.9.9",
+      "Name": "Net Sul BR | Versão 68.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.xyz",
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-    
-     
+
+       {
 
       "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
