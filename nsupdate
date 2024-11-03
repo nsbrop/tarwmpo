@@ -1,5 +1,5 @@
 {
-  "Version": "60.9.9",
+  "Version": "61.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,10 +10,10 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul BR | Versão 60.9.9",
+      "Name": "Net Sul BR | Versão 61.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "netsul.xyz",
+      "ServerIP": "firezfalcon.nxtgen.pp.ua",
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -24,7 +24,7 @@
       "Name": "Net Sul EUA | Versão 58.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "netsul.store",
+      "ServerIP": "firezfalcon.nxtgen.pp.ua",
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -50,7 +50,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "gedoc.vivo.com.br",
+      "ProxyIP": "104.16.51.111#104.16.53.111",
       "ProxyPort": "80",
       "Info": "proxy"
     },
