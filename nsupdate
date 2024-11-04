@@ -1,5 +1,5 @@
 {
-  "Version": "59.9.9",
+  "Version": "70.1.1",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul BR | Versão 59.9.9",
+      "Name": "Net Sul BR | Versão 70.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.xyz",
@@ -19,7 +19,7 @@
     },
     {
      
-      "Name": "Net Sul EUA | Versão 58.9.9",
+      "Name": "Net Sul EUA | Versão 70.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.store",
@@ -30,7 +30,7 @@
       "PASS": ""
     }
   ],
-  "Networks": [
+     "Networks": [
     {
       "Name": "VIVO LURA Proxy 1 🇧🇷",
       "FLAG": "vivo",
@@ -52,7 +52,7 @@
       "Info": "Direct"
     },
     {
- "Name": "VIVO LURA Direct 3 🇧🇷",
+      "Name": "VIVO LURA Direct 3 🇧🇷",
       "FLAG": "vivo",
       "Payload": "delay_split]COPY / [crlf][crlf]",
       "SNI": "",
