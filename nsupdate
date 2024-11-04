@@ -1,5 +1,5 @@
 {
-  "Version": "72.1.1",
+  "Version": "73.1.1",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul BR | Versão 72.1.1",
+      "Name": "Net Sul BR | Versão 73.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.xyz",
@@ -19,7 +19,7 @@
     },
     {
      
-      "Name": "Net Sul EUA | Versão 72.1.1",
+      "Name": "Net Sul EUA | Versão 73.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.store",
@@ -32,87 +32,25 @@
   ],
      "Networks": [
     {
-      "Name": "VIVO LURA Proxy 1 🇧🇷",
+      "Name": "VIVO CDN 🇧🇷",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: netsul.yxz\\n\\n\\n \\n",
+      "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "191.96.225.223",
+      "ProxyIP": "vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO LURA Direct 2 🇧🇷",
-      "FLAG": "vivo",
-      "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: netsul.yxz\\n\\n\\n \\n",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "191.96.225.223",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
-      "Name": "VIVO LURA Direct 3 🇧🇷",
-      "FLAG": "vivo",
-      "Payload": "delay_split]COPY / [crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "netsul.xyz",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
+        "Name": "TIM CDN 🇧🇷",
+        "FLAG": "tim",
+        "Payload": "[rotate=PROPPATCH;ACL;PATCH;BCOPY;UNLINK] / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: SEUIDAQUI[crlf]Upgrade: Websocket[crlf][crlf]",
+        "SNI": "",
+        "TlsIP": "",
+        "ProxyIP": "104.16.51.111#104.16.53.111",
+        "ProxyPort": "80",
+        "Info": "Proxy"
 
-
-      "Name": "VIVO Proxy 🇱🇷 ",
-      "FLAG": "vivo",
-      "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: netsul.store\\n\\n\\n \\n",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "15.204.228.255",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO Direct 🇱🇷 ",
-      "FLAG": "vivo",
-      "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: netsul.store\\n\\n\\n \\n",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "15.204.228.255",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
-      "Name": "TIM LURA CADASTRADO 🇧🇷 ",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[crlf] [crlf]GET / HTTP/1.1[lf]Host:d3nojlslpnjlvi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "launches.appsflyer.com",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "TIM LURA SEM CADASTRO1 🇧🇷 ",
-      "FLAG": "tim",
-      "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "netsul.xyz",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
-      "Name": "TIM LURA SEM CADASTRO2 🇧🇷 ",
-      "FLAG": "tim",
-      "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "netsul.xyz",
-      "ProxyPort": "80",
-      "Info": "Proxy"
- 
     }
   ]
 }
