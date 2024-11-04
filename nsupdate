@@ -1,5 +1,5 @@
 {
-  "Version": "77.1.1",
+  "Version": "78.1.1",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul BR | Versão 77.1.1",
+      "Name": "Net Sul BR | Versão 78.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.xyz",
@@ -19,7 +19,7 @@
     },
     {
      
-      "Name": "Net Sul EUA | Versão 77.1.1",
+      "Name": "Net Sul EUA | Versão 78.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "firezfalcon.nxtgen.pp.ua",
@@ -44,10 +44,10 @@
     {
         "Name": "TIM CDN 🇧🇷",
         "FLAG": "tim",
-        "Payload": "[rotate=PROPPATCH;ACL;PATCH;BCOPY;UNLINK] / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: SEUIDAQUI[crlf]Upgrade: Websocket[crlf][crlf]",
+        "Payload": "[rotate=PROPPATCH;ACL;PATCH;BCOPY;UNLINK] / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend:app111222[crlf]Upgrade: Websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "104.16.51.111#104.16.53.111",
+        "ProxyIP": "vivocom.br#timofertas.com",
         "ProxyPort": "80",
         "Info": "Proxy"
 
