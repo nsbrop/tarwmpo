@@ -1,5 +1,5 @@
 {
-  "Version": "73.1.1",
+  "Version": "74.1.1",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,10 +11,10 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Net Sul BR | Versão 73.1.1",
+      "Name": "Net Sul BR | Versão 74.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "netsul.xyz",
+      "ServerIP": "firezfalcon.nxtgen.pp.ua",
       "PASS": ""
     },
     {
@@ -22,7 +22,7 @@
       "Name": "Net Sul EUA | Versão 73.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "netsul.store",
+      "ServerIP": "firezfalcon.nxtgen.pp.ua",
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
