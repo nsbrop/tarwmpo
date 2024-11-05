@@ -1,5 +1,5 @@
 {
-  "Version": "99.1.1",
+  "Version": "1.1.1",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,25 +11,14 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "CONEXAO 1 BR | Versão 99.1.1",
+      "Name": "CONEXAO 1 BR | Versão 1.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
-      "CheckUser": "http://191.96.225.223:8989/checkUser",
+      "CheckUser": "http",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-    {
-
-     "Name": "CONEXAO 2 BR | Versão 99.1.1",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "firezfalcon.nxtgen.pp.ua",
-      "CheckUser": "http://191.96.225.223:8989/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
+      "ProxyPort": "80",
       "USER": "",
       "PASS": ""
     }
