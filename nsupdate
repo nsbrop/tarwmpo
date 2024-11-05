@@ -1,5 +1,5 @@
 {
-  "Version": "88.1.1",
+  "Version": "89.1.1",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "CONEXAO 1 BR | Versão 88.1.1",
+      "Name": "CONEXAO 1 BR | Versão 89.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.xyz",
@@ -19,7 +19,7 @@
     },
     {
 
-     "Name": "CONEXAO 2 BR | Versão 88.1.1",
+     "Name": "CONEXAO 2 BR | Versão 89.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "firezfalcon.nxtgen.pp.ua",
@@ -37,11 +37,9 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "vivo.com.br",
+      "ProxyIP": "162.159.136.63",
       "ProxyPort": "80",
       "Info": "Proxy"
-      "Info": "Ssl"
-      "Info": "Ssl"
     },
     { 
       "Name": "VIVO SSL CDN 🇧🇷",
