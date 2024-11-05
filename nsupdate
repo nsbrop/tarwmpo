@@ -1,5 +1,5 @@
 {
-  "Version": "100.3",
+  "Version": "100.4",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "CONEXAO 1 BR | Versão 100.3",
+      "Name": "CONEXAO 1 BR | Versão 100.4",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -33,7 +33,8 @@
       "ProxyIP": "162.159.136.63",
       "ProxyPort": "80",
       "Info": "Proxy"  
-   {
+      },
+      { 
       "Name": "TIM FRONT,
       "FLAG": "tim",
       "Payload": "GET  / HTTP/1.1[crlf]Host: tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d1chkdhuqviv5m.cloudfront.net][lf] BACKEND: nerynet[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
