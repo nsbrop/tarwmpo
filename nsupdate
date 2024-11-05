@@ -1,5 +1,5 @@
 {
-  "Version": "93.1.1",
+  "Version": "10.1.1",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "CONEXAO 1 BR | Versão 93.1.1",
+      "Name": "CONEXAO 1 BR | Versão 10.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -23,7 +23,7 @@
     },
     {
 
-     "Name": "CONEXAO 2 BR | Versão 93.1.1",
+     "Name": "CONEXAO 2 BR | Versão 10.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "firezfalcon.nxtgen.pp.ua",
