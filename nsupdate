@@ -1,5 +1,5 @@
 {
-  "Version": "100.4",
+  "Version": "101.5",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "CONEXAO 1 BR | Versão 100.4",
+      "Name": "CONEXAO 1 BR | Versão 101.5",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
@@ -25,6 +25,7 @@
   ],
      "Networks": [
     {
+
       "Name": "VIVO CDN 🇧🇷",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
@@ -33,14 +34,16 @@
       "ProxyIP": "162.159.136.63",
       "ProxyPort": "80",
       "Info": "Proxy"  
+
       },
       { 
+
       "Name": "TIM FRONT,
       "FLAG": "tim",
-      "Payload": "GET  / HTTP/1.1[crlf]Host: tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d1chkdhuqviv5m.cloudfront.net][lf] BACKEND: nerynet[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+      "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "13.227.126.91",
+      "ProxyIP": "1.1.1.1",
       "ProxyPort": "80",
       "Info": "Proxy"
   
