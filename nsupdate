@@ -1,5 +1,5 @@
 {
-  "Version": "63.9.9",
+  "Version": "64.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,15 +11,15 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "CONEXAO 1 BR | Versão 63.9.9",
+      "Name": "CONEXAO 1 BR | Versão 64.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "netsul.xyz",
+      "ServerIP": "firewallfalcon.theroms.573357.xyz",
       "PASS": ""
     },
     {
 
-     "Name": "CONEXAO 2 BR | Versão 63.9.9",
+     "Name": "CONEXAO 2 BR | Versão 64.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "firezfalcon.nxtgen.pp.ua",
