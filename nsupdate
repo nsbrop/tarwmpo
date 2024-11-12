@@ -19,7 +19,7 @@
     },
     {
 
-     "Name": "CONEXAO 2 BR | Versão 87.1.1",
+     "Name": "CONEXAO 2 BR | Versão 86.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "firezfalcon.nxtgen.pp.ua",
@@ -40,8 +40,10 @@
       "ProxyIP": "vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
-    { 
+
+      },
+      {  
+
       "Name": "TIM FRONT,
       "FLAG": "tim",
       "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[lf]Upgrade: Websocket[crlf][crlf]",
@@ -50,6 +52,7 @@
       "ProxyIP": "1.1.1.1",
       "ProxyPort": "80",
       "Info": "Proxy"
+
 
     }
   ]
