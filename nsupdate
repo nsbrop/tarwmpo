@@ -1,5 +1,5 @@
 {
-  "Version": "108.1.1",
+  "Version": "210.1.1",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,22 +11,10 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "CONEXAO 1 BR | Versão 108.1.1",
+      "Name": "CONEXAO 1 BR | Versão 210.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "191.96.225.223",
-      "CheckUser": "http://191.96.225.223:8989/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-    {
-
-     "Name": "CONEXAO 2 BR | Versão 108.1.1",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "firezfalcon.nxtgen.pp.ua",
       "CheckUser": "http://191.96.225.223:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -38,7 +26,7 @@
     {
       "Name": "VIVO CDN 🇧🇷",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: firewallfalcon.theroms.573357.xyz[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "162.159.136.63",
@@ -55,7 +43,6 @@
       "ProxyPort": "80",
       "Info": "Proxy"
 
-  
     }
   ]
 }
