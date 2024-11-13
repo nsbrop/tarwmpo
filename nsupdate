@@ -1,5 +1,5 @@
 {
-  "Version": "65.9.9",
+  "Version": "66.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "CONEXAO 1 BR | Versão 65.9.9",
+      "Name": "CONEXAO 1 BR | Versão 66.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "firezfalcon.nxtgen.pp.ua",
@@ -19,7 +19,7 @@
     },
     {
 
-     "Name": "CONEXAO 2 BR | Versão 65.9.9",
+     "Name": "CONEXAO 2 BR | Versão 66.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.xyz",
@@ -34,7 +34,7 @@
 {
 "Name": "🟣VIVO 5G",
 "FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: firewallfalcon.theroms.573357.xyz[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
+"Payload": "GET / HTTP/1.1[crlf]Host: firewallfalcon.theroms.573357.xyz[crlf]Backend: app643461[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "vivo.com.br",
@@ -44,7 +44,7 @@
 {
 "Name": "🔵TIM 5G",
 "FLAG": "vivo",
-"Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[lf]Upgrade: Websocket[crlf][crlf]",
+"Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app643461[lf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "1.1.1.1",
