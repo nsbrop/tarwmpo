@@ -1,5 +1,5 @@
 {
-  "Version": "75.9.9",
+  "Version": "76.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "VIVO & TIM 5G BR | Versão 75.9.9",
+      "Name": "VIVO & TIM 5G BR | Versão 76.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "firewallfalcon.theroms.573357.xyz#netsul.xyz",
