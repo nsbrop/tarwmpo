@@ -1,6 +1,6 @@
 {
-  "Version": "79.9.9",
-  "ReleaseNotes": "Notas de atualização em breve",
+  "Version": "80.9.9",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
   "EmailFeedback": "maeiloveyouforever@gmail.com",
@@ -11,11 +11,17 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "VIVO & TIM 5G | Versão 79.9.9",
+      "Name": "VIVO 5G | Versão 80.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "firewallfalcon.theroms.573357.xyz#netsul.xyz",
+      "ServerIP": "netsul.xyz",
       "PASS": ""
+     },
+     {
+      "Name": "TIM 5G | Versão 80.9.9",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "firewallfalcon.theroms.573357.xyz",
     }
   ],
   "Networks": [
