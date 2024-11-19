@@ -1,5 +1,5 @@
 {
-  "Version": "84.9.9",
+  "Version": "85.9.9",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,10 +11,11 @@
   "UdpPort": "7300",
   "Servers": [
   {
-      "Name": "NETSUL | Versão 84.9.9",
+      "Name": "NETSUL | Versão 85.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "v8.thur.store#netsul.xyz",
+      "ServerIP": "v8.thur.store",
+      "ServerIP": "netsul.xyz",
       "PASS": ""
     }
   ],
