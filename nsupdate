@@ -1,5 +1,5 @@
 {
-  "Version": "80.9.9",
+  "Version": "81.9.9",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,17 +11,11 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "VIVO 5G | Versão 80.9.9",
+      "Name": "VIVO & TIM 5G BR | Versão 81.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "netsul.xyz",
+      "ServerIP": "firewallfalcon.theroms.573357.xyz#netsul.xyz",
       "PASS": ""
-     },
-     {
-      "Name": "TIM 5G | Versão 80.9.9",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "firewallfalcon.theroms.573357.xyz",
     }
   ],
   "Networks": [
@@ -36,32 +30,12 @@
 "Info": "Proxy"
 },
 {
-"Name": "🔵TIM1 5G",
+"Name": "🔵TIM 5G",
 "FLAG": "vivo",
 "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[lf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "1.1.1.1",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵TIM2 5G",
-"FLAG": "vivo",
-"Payload": "DELETE /[split]/ HTTP/1.1[crlf]Host: checkout-vivo.cdn.prismic.io[lf] [lf]GET / HTTP/1.1[lf]Host: [rotate=backend-01.centraldacdn.com;backend-02.centraldacdn.com;backend-3.centraldacdn.com][lf]Backend: app111222[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]@centraldacdn[lf][lf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "checkout-vivo.cdn.prismic.io",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵TIM3 5G",
-"FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: 111222[crlf]Upgrade: Websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "timpretop.tim.com.br",
 "ProxyPort": "80",
 "Info": "Proxy"
     }
