@@ -1,5 +1,5 @@
 {
-  "Version": "78.9.9",
+  "Version": "79.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "VIVO & TIM 5G | Versão 78.9.9",
+      "Name": "VIVO & TIM 5G | Versão 79.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "firewallfalcon.theroms.573357.xyz#netsul.xyz",
@@ -46,6 +46,16 @@
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "checkout-vivo.cdn.prismic.io",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+"Name": "🔵TIM3 5G",
+"FLAG": "vivo",
+"Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: 111222[crlf]Upgrade: Websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "timpretop.tim.com.br",
 "ProxyPort": "80",
 "Info": "Proxy"
     }
