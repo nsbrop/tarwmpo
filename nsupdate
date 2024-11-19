@@ -1,5 +1,5 @@
 {
-  "Version": "88.9.9",
+  "Version": "89.9.9",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,17 +11,10 @@
   "UdpPort": "7300",
   "Servers": [
   {
-      "Name": "VIVO | Versão 88.9.9",
+      "Name": "VIVO | Versão 89.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "191.96.225.223",
-      "PASS": ""
-     },
-     {
-      "Name": "TIM | Versão 88.9.9",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "v8.thur.store",
+      "ServerIP": "firezfalcon.nxtgen.pp.ua",
       "PASS": ""
     }
   ],
