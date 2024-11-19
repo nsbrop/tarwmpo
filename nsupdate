@@ -1,5 +1,5 @@
 {
-  "Version": "83.9.9",
+  "Version": "84.9.9",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,21 +11,10 @@
   "UdpPort": "7300",
   "Servers": [
   {
-      "Name": "VIVO 5G | Versão 83.9.9",
+      "Name": "NETSUL | Versão 84.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "v8.thur.store",
-      "PASS": ""
-    },
-    {
-     "Name": "TIM 5G BR | Versão 83.9.9",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "netsul.xyz",
-      "CheckUser": "http://191.96.225.223:8989/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
+      "ServerIP": "v8.thur.store#netsul.xyz",
       "PASS": ""
     }
   ],
