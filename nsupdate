@@ -1,5 +1,5 @@
 {
-  "Version": "74.9.9",
+  "Version": "75.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "VIVO & TIM 5G BR | Versão 74.9.9",
+      "Name": "VIVO & TIM 5G BR | Versão 75.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "firewallfalcon.theroms.573357.xyz#netsul.xyz",
@@ -20,7 +20,7 @@
   ],
   "Networks": [
 {
-"Name": "🟣VIVO 5G",
+"Name": "🟣VIVO FRONT 5G",
 "FLAG": "vivo",
 "Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
@@ -30,12 +30,33 @@
 "Info": "Proxy"
 },
 {
-"Name": "🔵TIM 5G",
+"Name": "🟣VIVO SSL 5G",
+"FLAG": "vivo",
+"Payload": "GET / HTTP/1.1[crlf]Host: [random=firewallfalcon.theroms.573357.xyz;firezfalcon.nxtgen.pp.ua;v8.thur.store][crlf]Backend: app111222[crlf]Upgrade: Websocket[lf]@centraldacdn[crlf][crlf]",
+"SNI": "firewallfalcon.theroms.573357.xyz",
+"TlsIP": "",
+"ProxyIP": "teatrovivo.com.br",
+"ProxyPort": "443",
+"Info": "Ssl"
+"Info": "Proxy"
+},
+{
+"Name": "🔵TIM FRONT 1 5G",
 "FLAG": "vivo",
 "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[lf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "1.1.1.1",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+"Name": "🔵TIM FRONT 2 5G",
+"FLAG": "vivo",
+"Payload": "CONNECT / HTTP/1.1[crlf]Host: cdn-segment.dzcdn.net[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=backend-01.centraldacdn.com;backend-02.centraldacdn.com;backend-3.centraldacdn.com][lf]Backend: app111222[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf]@centraldacdn[lf][lf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "premier.sonos.dzcdn.net",
 "ProxyPort": "80",
 "Info": "Proxy"
     }
