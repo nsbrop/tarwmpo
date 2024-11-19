@@ -1,5 +1,5 @@
 {
-  "Version": "81.9.9",
+  "Version": "82.9.9",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,11 +10,22 @@
   "CheckUser": "http://sshmanager.uleksv.xyz:3232/checkuser/csfibra",
   "UdpPort": "7300",
   "Servers": [
-    {
-      "Name": "VIVO & TIM 5G BR | Versão 81.9.9",
+  {
+      "Name": "VIVO 5G | Versão 82.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "firewallfalcon.theroms.573357.xyz#netsul.xyz",
+      "ServerIP": "netsul.xyz",
+      "PASS": ""
+    },
+    {
+     "Name": "TIM 5G BR | Versão 82.9.9",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "firezfalcon.nxtgen.pp.ua",
+      "CheckUser": "http://191.96.225.223:8989/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
       "PASS": ""
     }
   ],
