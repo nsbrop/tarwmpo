@@ -1,5 +1,5 @@
 {
-  "Version": "67.9.9",
+  "Version": "68.9.9",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,15 +11,15 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "CONEXAO 1 BR | Versão 67.9.9",
+      "Name": "CONEXAO 1 BR | Versão 68.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "firezfalcon.nxtgen.pp.ua",
+      "ServerIP": "netsul.xyz",
       "PASS": ""
     },
     {
 
-     "Name": "CONEXAO 2 BR | Versão 67.9.9",
+     "Name": "CONEXAO 2 BR | Versão 68.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.xyz",
@@ -34,7 +34,7 @@
 {
 "Name": "🟣VIVO 5G",
 "FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: firewallfalcon.theroms.573357.xyz[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
+"Payload": "GET / HTTP/1.1[crlf]Host: firewallfalcon.theroms.573357.xyz[crlf]Backend: app643461[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "vivo.com.br",
