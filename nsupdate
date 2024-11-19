@@ -1,5 +1,5 @@
 {
-  "Version": "89.9.9",
+  "Version": "90.9.9",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,10 +11,10 @@
   "UdpPort": "7300",
   "Servers": [
   {
-      "Name": "VIVO | Versão 89.9.9",
+      "Name": "VIVO | Versão 90.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "firezfalcon.nxtgen.pp.ua",
+      "ServerIP": "backend-01.centraldacdn.com",
       "PASS": ""
     }
   ],
