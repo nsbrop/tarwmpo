@@ -1,5 +1,5 @@
 {
-  "Version": "92.9.9",
+  "Version": "93.9.9",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,10 +11,10 @@
   "UdpPort": "7300",
   "Servers": [
   {
-      "Name": "VIVO | Versão 92.9.9",
+      "Name": "VIVO | Versão 93.9.9",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "firewallfalcon.theroms.573357.xyz",
+      "ServerIP": "netsul.xyz",
       "PASS": ""
     }
   ],
