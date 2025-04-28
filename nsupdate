@@ -1,5 +1,5 @@
 {
-  "Version": "93.9.9",
+  "Version": "94.1.1",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
   {
-      "Name": "VIVO | Versão 93.9.9",
+      "Name": "VIVO | Versão 94.1.1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.xyz",
@@ -22,10 +22,13 @@
 {
 "Name": "🟣VIVO 5G",
 "FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
+"Payload": "PATCH /Allow/HTTP/1.1[lf]host: cloudflare.com;twitter.comPATCH / Cache-Control: private: Web-security[lf]host: www.veek.com.br[lf]User-Agent: AnyProxyProxy-Authorization: Basic base64(usuario:senha)
+Keep-Alive: timeout=120, max=300
+CONNECT 185.194.204.24:80 HTTP/1.0
+Connection: keep-alive[lf]Keep-Alive: timeout=120, max=300[lf][lf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "vivo.com.br",
+"ProxyIP": "netsul.xyz",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
