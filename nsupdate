@@ -1,5 +1,5 @@
 {
-  "Version": "95.2.2",
+  "Version": "96.2.2",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
   {
-      "Name": "VIVO | Versão 95.2.2",
+      "Name": "VIVO | Versão 96.2.2",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.shop",
@@ -29,16 +29,6 @@ Connection: keep-alive[lf]Keep-Alive: timeout=120, max=300[lf][lf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "netsul.shop",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵TIM 5G",
-"FLAG": "vivo",
-"Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[lf]Upgrade: Websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "1.1.1.1",
 "ProxyPort": "80",
 "Info": "Proxy"
     }
