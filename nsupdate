@@ -1,5 +1,5 @@
 {
-  "Version": "96.2.2",
+  "Version": "96.3.3",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
   {
-      "Name": "VIVO | Versão 96.2.2",
+      "Name": "VIVO | Versão 96.3.3",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.shop",
