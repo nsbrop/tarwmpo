@@ -1,6 +1,6 @@
 
 {
-   "Version": "8.0.1",
+   "Version": "95.1.1",
    "ReleaseNotes": "2 OPEÇÃO CLARO 5G ADICIONADO..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
    "Version": "8.0.1",
    "ReleaseNotes": "VIVO ONLINE SO SELECIONAR VIVO CLOUDFLARE..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
@@ -10,13 +10,13 @@
    "UdpPort": "7300",
    "Servers": [
      {
-       "Name": "NET SUL POA | Versão 8.0.1",
+       "Name": "NET SUL POA | Versão 95.1.1",
        "TYPE": "premium",
        "FLAG": "br.png",
        "ServerIP": "netsul.store",
       },
       {
-       "Name": "ULTRA AZURE | Versão 8.0.1",
+       "Name": "ULTRA AZURE | Versão 95.1.1",
        "TYPE": "premium",
        "FLAG": "br.png",
        "ServerIP": "sul.sulbr.xyz",
