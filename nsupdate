@@ -1,50 +1,43 @@
 {
-  "Version": "98.5.5",
+  "Version": "98.6.6",
   "ReleaseNotes": "Notas de atualização em breve",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
-  "EmailFeedback": "andsouza1872@gmail.com",
-  "UrlContato": "https:",
+  "EmailFeedback": "maeiloveyouforever@gmail.com",
+  "UrlContato": "https://t.me/22",
   "UrlTermos": "https://nsbrop.github.io/tarwmpo/termos.html",
   "CheckUser": "true",
   "CheckUser": "http://sshmanager.uleksv.xyz:3232/checkuser/csfibra",
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "CONEXAO 1 BR | Versão 98.5.5",
+      "Name": "VIVO & TIM 5G BR | Versão 98.6.6",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.store",
-      "PASS": ""
-    },
-    {
-
-     "Name": "CONEXAO 2 BR | Versão 98.5.5",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "netsul.store",
-      "CheckUser": "http://191.96.225.223:8989/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
       "PASS": ""
     }
   ],
-     "Networks": [
-    {
-      "Name": "VIVO CDN 🇧🇷",
-      "FLAG": "vivo",
-      "Payload": "PATCH /Allow/HTTP/1.1[lf]host: cloudflare.com;twitter.comPATCH / Cache-Control: private: Web-security[lf]host: www.veek.com.br[lf]User-Agent: AnyProxy
-      Proxy-Authorization: Basic base64(usuario:senha)
-      Keep-Alive: timeout=120, max=300
-      CONNECT 185.194.204.24:80 HTTP/1.0
-      Connection: keep-alive[lf]Keep-Alive: timeout=120, max=300[lf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "netsul.store",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-  
+  "Networks": [
+{
+"Name": "🟣VIVO 5G",
+"FLAG": "vivo",
+"Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[crlf]Upgrade: Websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "netsul.store",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+"Name": "🔵TIM 5G",
+"FLAG": "vivo",
+"Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: app111222[lf]Upgrade: Websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "1.1.1.1",
+"ProxyPort": "80",
+"Info": "Proxy"
     }
   ]
 }
