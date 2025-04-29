@@ -1,5 +1,5 @@
 {
-  "Version": "96.3.3",
+  "Version": "97.4.4",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -11,7 +11,7 @@
   "UdpPort": "7300",
   "Servers": [
   {
-      "Name": "VIVO | Versão 96.3.3",
+      "Name": "VIVO | Versão 97.4.4",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "netsul.shop",
@@ -20,15 +20,16 @@
   ],
   "Networks": [
 {
-"Name": "🟣VIVO 5G",
+"Name": "VIVO",
 "FLAG": "vivo",
-"Payload": "PATCH /Allow/HTTP/1.1[lf]host: cloudflare.com;twitter.comPATCH / Cache-Control: private: Web-security[lf]host: www.veek.com.br[lf]User-Agent: AnyProxyProxy-Authorization: Basic base64(usuario:senha)
+"Payload": "PATCH /Allow/HTTP/1.1[lf]host: cloudflare.com;twitter.comPATCH / Cache-Control: private: Web-security[lf]host: www.veek.com.br[lf]User-Agent: AnyProxy
+Proxy-Authorization: Basic base64(usuario:senha)
 Keep-Alive: timeout=120, max=300
 CONNECT 185.194.204.24:80 HTTP/1.0
 Connection: keep-alive[lf]Keep-Alive: timeout=120, max=300[lf][lf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "netsul.shop",
+"ProxyIP": "netsul.store",
 "ProxyPort": "80",
 "Info": "Proxy"
     }
